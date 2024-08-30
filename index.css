@@ -1,0 +1,65 @@
+body{
+    background-color: #f6d050;
+}
+
+.bg{
+    background-color: rgb(255, 255, 255);
+    width: 336px;
+    height: 470px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 60px;
+    border-radius: 12px; /* Rounded corners */
+    border: 1px solid black; /* Border width and color */
+    z-index: 0;
+
+}
+.bg2{
+    position: absolute;
+    width: 336px;
+    height:470px;
+    padding: 20px;
+    z-index: -1;
+    border-radius: 12px;
+    margin-top: -10px;
+    margin-left: -10px;
+    background-color: rgb(0, 0, 0);
+
+}
+
+.img1{
+    margin: auto;
+    border-radius: 12px;
+}
+
+.learning{
+    background-color: #f6d050;
+    width:70px;
+    height: 20px;
+    padding: 3px;
+    font-weight: 600;
+    padding-left: 12px;
+    border-radius: 5px;
+}
+.heading1{
+    font-size: 25px;
+    font-weight: 900;
+    /* background-color: aliceblue; */
+}
+.para{
+    color: #a9a9a9;
+    font-size: 17px;
+}
+.img2{
+    height: 40px;
+    padding-right: 20px;
+}
+.div1{
+    display: flex;
+}
+.avatarname{
+    margin-top:1cap;
+    font-weight: 800;
+}
+
+
